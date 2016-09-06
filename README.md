@@ -1,2 +1,2 @@
 # hellouniverse
-A hellouniverse project
+A hellouniverse project of Mani Soni
